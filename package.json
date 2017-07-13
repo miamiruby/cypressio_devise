@@ -1,0 +1,8 @@
+{
+  "name": "cypressapp",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "test": "cypress run"
+  }
+}
