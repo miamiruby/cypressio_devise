@@ -8,7 +8,7 @@ describe('Login', function(){
 
   })
 
-  it('cy.register should create a user', function(){
+  it('should be able to register/logout/login', function(){
     cy.visit('/')
 
     cy.register()
